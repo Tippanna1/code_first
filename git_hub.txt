@@ -3,3 +3,5 @@ ans. it is an open source project, and git full form is global information track
 
 what are type of version controls are present in git?
 ans. git itself is distributed version controls system.
+
+just an basic about about git.
