@@ -1,2 +1,5 @@
 what is git_hub?
 ans. it is an open source project, and git full form is global information tracker.
+
+what are type of version controls are present in git?
+ans. git itself is distributed version controls system.
